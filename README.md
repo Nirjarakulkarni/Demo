@@ -1,5 +1,5 @@
 # Demo
-<h1>My first github repository</h1>
+My first github repository
 <br>
 Author - Nirjarakulkarni
 

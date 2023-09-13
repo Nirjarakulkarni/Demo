@@ -2,5 +2,5 @@
 My first github repository
 <br>
 Author - Nirjarakulkarni
-<p>hHello world</p>
+<p>Hello world</p>
 
